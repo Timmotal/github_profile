@@ -28,3 +28,10 @@ input {
     margin-bottom: 2rem;
     overflow: hidden;
 } 
+
+input:focus {
+
+ 
+
+  }
+
