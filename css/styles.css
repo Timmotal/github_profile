@@ -35,3 +35,7 @@ input:focus {
     outline-color: #1EAE98;
   }
 
+::-webkit-input-placeholder {
+
+
+  } 
