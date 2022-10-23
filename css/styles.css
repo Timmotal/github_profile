@@ -32,6 +32,6 @@ input {
 input:focus {
 
     outline-width: 1px;
-
+    outline-color: #1EAE98;
   }
 
