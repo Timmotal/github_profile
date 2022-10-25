@@ -48,7 +48,7 @@ input:focus {
     background-image: linear-gradient(315deg, #D8B5FF 0%, #1EAE98 74%);
     border-radius: 20px;
     box-shadow: 0 5px 10px rgba(154, 160, 185, .05), 0 15px 40px rgba(0, 0, 0, .2); /**very subtle visuals, changed it to a dark*/
-    
+    display: flex;
 
 
 } 
