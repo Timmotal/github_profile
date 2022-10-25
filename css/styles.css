@@ -40,7 +40,7 @@ input:focus {
     color: #fff;
   } 
   :-moz-placeholder {
-
+    text-align: center;
   }
 
 
