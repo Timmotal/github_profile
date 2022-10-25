@@ -46,7 +46,8 @@ input:focus {
 .card {
     background-color: #D8B5FF;
     background-image: linear-gradient(315deg, #D8B5FF 0%, #1EAE98 74%);
-   
+    border-radius: 20px;
+   , changed it to a dark*/
     
 
 
