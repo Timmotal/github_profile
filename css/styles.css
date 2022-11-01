@@ -70,7 +70,7 @@ input:focus {
   display: flex;
   justify-content: space-between;
   padding: 0;
-
+  max-width: 300px;
 
 }
 
