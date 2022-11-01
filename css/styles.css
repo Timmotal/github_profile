@@ -55,7 +55,7 @@ input:focus {
 .avatar {
   border: 10px solid #D8B5FF;
   border-radius: 50%;
-
+  height: 150px;
 
 }
 
