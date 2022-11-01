@@ -68,7 +68,7 @@ input:focus {
 
 .user-info ul {
   display: flex;
-
+  justify-content: space-between;
 
 
 
