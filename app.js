@@ -24,4 +24,5 @@ async function getRepos(username) {
     addReposToCard(respData);
 }
 
+getUser("florinpop17")
 
