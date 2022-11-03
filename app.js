@@ -46,7 +46,7 @@ function createUserCard(user) {
         </ul>
 
         <h4>Repositories:</h4>
-  
+        <div class="repos" id="repos"></div>
         </div>
         </div>
     `;
