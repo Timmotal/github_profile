@@ -26,3 +26,8 @@ async function getRepos(username) {
 
 getUser("florinpop17")
 
+function createUserCard(user) {
+    // const card = document.createElement('div');
+    // card.classList.add('card'); ------ we replaced this with "cardHTML"
+
+   
