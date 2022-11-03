@@ -18,7 +18,7 @@ async function getUser(username) {
 }
 
 async function getRepos(username) {
-
+    const resp = await fetch(APIURL + username + '/repos');
 
 
 }
