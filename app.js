@@ -17,5 +17,10 @@ async function getUser(username) {
 
 }
 
+async function getRepos(username) {
+
+
+
+}
 
 
