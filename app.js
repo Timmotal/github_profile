@@ -31,5 +31,8 @@ function createUserCard(user) {
     // card.classList.add('card'); ------ we replaced this with "cardHTML"
 
     const cardHTML = `
-    
+    <div class="card">
+       
+      
+        </div>
     `;
