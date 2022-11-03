@@ -13,7 +13,7 @@ async function getUser(username) {
 
     createUserCard(respData);
 
-   
+    getRepos(username);
 
 }
 
