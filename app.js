@@ -37,7 +37,7 @@ function createUserCard(user) {
         </div>
         <div class="user-info">
         <h2>${user.name}</h2>
-     
+        <p>${user.bio}</p>
 
        
 
