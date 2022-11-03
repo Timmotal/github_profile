@@ -9,7 +9,7 @@ const search = document.getElementById("search");
 
 async function getUser(username) {
     const resp = await fetch(APIURL + username);
-   
+    const respData = await resp.json();
 
    
 
