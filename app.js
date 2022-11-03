@@ -3,5 +3,5 @@
 //  he wants to get "repos" alongside the github profiles
 const  APIURL = "https://api.github.com/users/" ;
 
-
+const main = document.getElementById("main");
 
