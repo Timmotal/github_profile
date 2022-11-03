@@ -32,7 +32,9 @@ function createUserCard(user) {
 
     const cardHTML = `
     <div class="card">
-       
+        <div>
+  
+        </div>
       
         </div>
     `;
