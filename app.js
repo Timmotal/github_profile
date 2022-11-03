@@ -30,4 +30,6 @@ function createUserCard(user) {
     // const card = document.createElement('div');
     // card.classList.add('card'); ------ we replaced this with "cardHTML"
 
-   
+    const cardHTML = `
+    
+    `;
