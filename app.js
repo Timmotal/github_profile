@@ -77,7 +77,7 @@ form.addEventListener("submit", (e) => {
     if(user) { // if theres is a user , then get the user
         getUser(user); // he forgot to pass the thing we are looking for "user"
 
-       
+        search.value = "";
     }
 });
 
