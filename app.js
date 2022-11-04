@@ -61,7 +61,7 @@ function addReposToCard(repos) {
         const repoEL = document.createElement('a');
         repoEL.classList.add('repo');
 
-
+        repoEL.href = repo.html_url;
  
       
 
