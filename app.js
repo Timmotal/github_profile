@@ -50,3 +50,5 @@ function createUserCard(user) {
         </div>
         </div>
     `;
+    main.innerHTML = cardHTML;
+
