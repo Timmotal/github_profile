@@ -74,6 +74,6 @@ form.addEventListener("submit", (e) => {
 
     const user = search.value;
 
-    if
+    if(user) 
 });
 
