@@ -51,4 +51,4 @@ function createUserCard(user) {
         </div>
     `;
     main.innerHTML = cardHTML;
-
+};
