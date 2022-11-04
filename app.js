@@ -65,7 +65,7 @@ function addReposToCard(repos) {
         repoEL.target = "_blank";
         repoEL.innerText = repo.name;
 
-
+        reposEl.appendChild(repoEL);
     })
 }
 
