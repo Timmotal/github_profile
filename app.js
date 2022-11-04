@@ -63,7 +63,7 @@ function addReposToCard(repos) {
 
         repoEL.href = repo.html_url;
         repoEL.target = "_blank";
-      
+        repoEL.innerText = repo.name;
 
 
     })
