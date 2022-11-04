@@ -70,6 +70,10 @@ function addReposToCard(repos) {
 }
 
 form.addEventListener("submit", (e) => {
+    e.preventDefault();
+
+
+
     
 });
 
