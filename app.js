@@ -62,7 +62,7 @@ function addReposToCard(repos) {
         repoEL.classList.add('repo');
 
         repoEL.href = repo.html_url;
- 
+        repoEL.target = "_blank";
       
 
 
